@@ -1,3 +1,8 @@
+/**
+ * @author ${hisham_maged10}
+ *https://github.com/hisham-maged10
+ * ${DesktopApps}
+ */
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
